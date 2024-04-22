@@ -1,0 +1,39 @@
+{
+    "Companies": [
+        {
+            "name": "Apple",
+            "ticker_symbol": "AAPL",
+            "share_price": 150.25
+        },
+        {
+            "name": "Microsoft",
+            "ticker_symbol": "MSFT",
+            "share_price": 250.75
+        },
+        {
+            "name": "Google",
+            "ticker_symbol": "GOOGL",
+            "share_price": 2800.5
+        },
+        {
+            "name": "Amazon",
+            "ticker_symbol": "AMZN",
+            "share_price": 3300.0
+        },
+        {
+            "name": "Facebook",
+            "ticker_symbol": "FB",
+            "share_price": 320.75
+        },
+        {
+            "name": "NVIDIA",
+            "ticker_symbol": "NVDA",
+            "share_price": 700.90
+        },
+        {
+            "name": "Netflix",
+            "ticker_symbol": "NFLX",
+            "share_price": 520.30
+        }
+    ]
+}
